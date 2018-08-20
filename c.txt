@@ -1,0 +1,4 @@
+c
+treinamento de git e laravel
+aula do joão cancelada
+novamente por conta da conjutivite
